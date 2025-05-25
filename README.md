@@ -29,6 +29,7 @@ The game is structured around the following components:
 *   Single player vs. computer opponent.
 *   Clear and interactive terminal interface.
 *   Triple War
+*   ASCII cards borrowed from https://github.com/naivoder/ascii_cards/tree/main
 
 ## Future Improvements
 
